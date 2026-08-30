@@ -7,3 +7,8 @@ Network application สำหรับจำลองระบบ **กดออ
 ดูวิดีโอสาธิตการทำงานของโปรแกรมได้ที่:
 
 **[▶️ Video Demo](https://drive.google.com/file/d/13Ndp7HEett59PdDuKBuqQ4lGDnnz2Gms/view?usp=sharing)**
+
+Slide ที่ใช้ประกอบคลิป:
+
+**[📚 Slide](https://canva.link/50kcvxsbvfs5tek)**
+
